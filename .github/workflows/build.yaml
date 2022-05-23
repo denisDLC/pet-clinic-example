@@ -20,7 +20,7 @@ jobs:
         java-version: 11
         cache: maven
     #### AUFGABE 2: SONAR
-      # hier kommt die Konfiguration der Sonar-Analyse rein
+      # hier kommt die Konfiguration der Sonar-Analyse rein.
   
     - name: Compile, build and push
       run: |
