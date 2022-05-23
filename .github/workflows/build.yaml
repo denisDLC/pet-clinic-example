@@ -42,7 +42,7 @@ jobs:
     - name: Compile, build and push
       run: |
         #### AUFGABE 3 DOCKER BUILD UND PUSH
-          # an dieser Stelle wird die Aufgabe 3 bearbeitet: heroku login, docker build, docker push
+          # an dieser Stelle wird die Aufgabe 3 bearbeitet: heroku login, docker build, docker push.
         
     - name: Release
       run: |
